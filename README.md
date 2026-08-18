@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Havolalar (Links)
-- 🌐 **Jonli ko'rish (Live Demo):** [study-hub.render.com](https://study-app.onrender.com) *(Render/Vercel linki)*
+- 🌐 **Jonli ko'rish (Live Demo):** [https://study-hub-web.onrender.com](https://study-hub-web.onrender.com) *(Render/Vercel linki)*
 - 💻 **Manba kodi (GitHub Repo):** [https://github.com/kamronbek1021](https://github.com/kamronbek1021/Study-hub)
 
 ---
